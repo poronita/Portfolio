@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Portfolio
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Object Detection in ArcGIS employs computer vision for object identification in images and videos, particularly useful for autonomous vehicles and surveillance. It includes building footprint detection and building height calculations, benefiting urban planning and disaster management with precise insights into structures.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

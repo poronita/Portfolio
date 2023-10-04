@@ -1,123 +1,26 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Project 01: Object Detection in ArcGIS
 
-[Link to another page](./another-page.html).
+Object detection is a computer vision process for identifying and pinpointing objects within images or video. It's essential for applications like autonomous vehicles and surveillance.
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://github.com/poronita/Portfolio)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src="https://miro.medium.com/v2/resize:fit:1400/1*Hz6t-tokG1niaUfmcysusw.jpeg"/></center>
 
-# Header 1
+## Building footprint detection
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> Building footprint detection in ArcGIS is the process of automatically identifying and 
+mapping the outlines of structures within a geographic area. 
 
-## Header 2
+<center><img src="https://www.arcgis.com/sharing/rest/content/items/69fb21b744204d75a1f7146602a0b479/info/thumbnail/ago_downloaded.jpg?w=800"/></center>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> It uses various data sources and advanced techniques to enhance urban planning, disaster management, 
+and decision-making by providing accurate information about the built environment.
 
-### Header 3
+### Building height calculations
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Building height calculation is the process of measuring the vertical distance from a building's base to its highest point, including any structural features that extend above the main roofline. This measurement is crucial for zoning regulations, structural design, and overall building aesthetics.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<center><img src="https://www.exprodat.com/wp-content/uploads/2021/05/Blog-11.png"/></center>
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
